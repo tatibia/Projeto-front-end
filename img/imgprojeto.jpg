@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"  href="css/estilo5.css" >
+    <title>Formulário</title>
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <ul>
+                <li><a href="p1.html">Página1</a></li>
+                <li><a href="p2.html">Página 2</a></li>
+                <li><a href="p3.html">Página 3</a></li>
+            </ul>
