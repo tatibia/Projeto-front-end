@@ -1,0 +1,66 @@
+.cabecalho{
+	width:100%;
+	height:100px;
+	margin:0 auto;
+	background-color:#08088A;
+	color:#FFFFFF;
+}
+#menu{
+	float:left;
+	width:0 auto;
+	height:40px;
+	margin-top:30px;
+	margin-left:200px;
+}
+#menu ul li{
+    display:inline;
+	margin-left:7px;
+	margin-right:7px;
+	width:0 auto;
+}
+#menu a{
+    text-decoration:none;
+    color:white;
+    font-size:20px;
+}
+
+#menu a:hover{
+    background-color:#819FF7;
+    color: black;
+    padding:14px 14px;
+    border: 1px solid #819FF7;
+}
+.meio{
+    width:100%;
+    margin:0 auto;
+    height: 815px;
+    background-color:rgb(205, 195, 50);
+}
+img{
+    width: 15%;
+    height: 300px;
+    margin-top: 10px;
+    padding: 24px;
+}
+.texto{
+    width: 31%;
+    float: left;
+}    
+.rodape{
+    width: 98%;
+    margin: 0 auto;
+    height: 40px;
+    background-color: #08088A;
+    color: #FFFFFF;
+    clear: both;
+    position: fixed;
+    bottom: 15px;
+}
+p{
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
+

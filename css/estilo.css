@@ -1,0 +1,46 @@
+body{
+    background-color:#00BFFF;
+    color: black;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: #FFFF00;
+}
+h3{
+    color: blueviolet;
+}
+h4{
+    color:#FF1493 ;
+}
+h5{
+    color: blue;
+}
+.principal{
+    width: 95%;
+}
+table{
+    border:1px solid;
+    width: 90%;
+    background-color: yellow
+}
+.col1{
+    width:30%;
+    float: left;    
+}
+.col2{
+    width:30%;
+    float: left;  
+}
+.col3{
+    width:30%;
+    float: left;  
+}
+.col4{
+    width:30%;
+    float: left;  
+}
+.fim{
+    width: 100%;
+}
